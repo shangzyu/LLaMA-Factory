@@ -1,4 +1,17 @@
 {
+  "jiaohang_askbi_alpaca": {
+    "file_name": "alpaca_jiaohang_askbi_samples.json"
+  },
+  "pingan_askbi_alpaca": {
+    "file_name": "alpaca_pingan_askbi_samples.json"
+  },
+  "jiaohang_askbi": {
+    "file_name": "jiaohang_askbi_samples.json"
+  },
+  "pingan_askbi": {
+    "file_name": "pingan_askbi_samples.json",
+    "formatting": "sharegpt"
+  },
   "alpaca_en": {
     "file_name": "alpaca_data_en_52k.json",
     "file_sha1": "607f94a7f581341e59685aef32f531095232cf23"
@@ -318,7 +331,7 @@
     "ms_hub_url": "AI-ModelScope/RLAIF-Nectar",
     "ranking": true
   },
-  "orca_dpo_de" : {
+  "orca_dpo_de": {
     "hf_hub_url": "mayflowergmbh/intel_orca_dpo_pairs_de",
     "ranking": true
   },
